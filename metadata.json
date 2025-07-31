@@ -1,0 +1,8 @@
+
+{
+  "name": "Verdant Vogue",
+  "description": "An online store for plants, gardening tools, and garden decor, featuring an AI-powered Plant Doctor to help you care for your plants.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
